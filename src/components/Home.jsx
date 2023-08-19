@@ -5,6 +5,8 @@ import React, {useState} from "react";
 
 const Home = (props) => {
 
+  
+
   const clearText = () => {
     let newText = '';
     setText(newText);
